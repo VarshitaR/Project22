@@ -36,6 +36,8 @@ function setup() {
 	World.add(world, starBody);
 	
 	Engine.run(engine);
+	
+	console.log("setup")
 
 }
 
